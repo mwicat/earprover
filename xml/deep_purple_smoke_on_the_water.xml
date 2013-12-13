@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Deep Purple - Smoke on the Water">
+    <note name="C4" duration="500" />
+    <note name="D#4" duration="500" />
+    <note name="F4" duration="1000" />
+    <note name="C4" duration="500" />
+    <note name="D#4" duration="500" />
+    <note name="F#4" duration="250" />
+    <note name="F4" duration="750" />
+    <note name="C4" duration="500" />
+    <note name="D#4" duration="500" />
+    <note name="F4" duration="1000" />
+    <note name="D#4" duration="500" />
+    <note name="C4" duration="500" />
+</tune>

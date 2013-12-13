@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Coldplay - Clocks">
+    <note name="D#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="G4" duration="300" />
+    <note name="D#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="G4" duration="300" />
+    <note name="D#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="C#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="F4" duration="300" />
+    <note name="C#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="F4" duration="300" />
+    <note name="C#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="C#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="F4" duration="300" />
+    <note name="C#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="F4" duration="300" />
+    <note name="C#5" duration="300" />
+    <note name="A#4" duration="300" />
+    <note name="C5" duration="300" />
+    <note name="G#4" duration="300" />
+    <note name="F4" duration="300" />
+    <note name="C5" duration="300" />
+    <note name="G#4" duration="300" />
+    <note name="F4" duration="300" />
+    <note name="C5" duration="300" />
+    <note name="G#4" duration="300" />
+</tune>

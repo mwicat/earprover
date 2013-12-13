@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="The Beatles - Yesterday">
+    <note name="G4" duration="800" />
+    <note name="F4" duration="400" />
+    <note name="F4" duration="1200" />
+    <note name="A4" duration="400" />
+    <note name="B4" duration="400" />
+    <note name="C#5" duration="400" />
+    <note name="D5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="F5" duration="400" />
+    <note name="E5" duration="800" />
+    <note name="D5" duration="400" />
+    <note name="D5" duration="800" />
+</tune>

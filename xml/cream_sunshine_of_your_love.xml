@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Cream - Sunshine of Your Love">
+    <note name="D4" duration="250" />
+    <note name="D4" duration="250" />
+    <note name="C4" duration="250" />
+    <note name="D4" duration="500" />
+    <note name="A3" duration="500" />
+    <note name="G#3" duration="500" />
+    <note name="G3" duration="500" />
+    <note name="D3" duration="250" />
+    <note name="F3" duration="500" />
+    <note name="D3" duration="500" />
+</tune>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Bob Dylan - Mr Tambourine Man">
+    <note name="D5" duration="800" />
+    <note name="D5" duration="400" />
+    <note name="C#5" duration="400" />
+    <note name="B4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="F#4" duration="400" />
+    <note name="F#4" duration="400" />
+    <note name="B4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="F#4" duration="400" />
+    <note name="D4" duration="800" />
+    <note name="D4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="F#4" duration="200" />
+    <note name="A4" duration="600" />
+    <note name="A4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="B4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="G4" duration="400" />
+    <note name="F#4" duration="400" />
+    <note name="E4" duration="200" />
+    <note name="E4" duration="200" />
+    <note name="E4" duration="2800" />
+</tune>

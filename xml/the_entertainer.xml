@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="The Entertainer">
+    <note name="D4" duration="300" />
+    <note name="D#4" duration="300" />
+    <note name="E4" duration="300" />
+    <note name="C5" duration="600" />
+    <note name="E4" duration="300" />
+    <note name="C5" duration="600" />
+    <note name="E4" duration="300" />
+    <note name="C5" duration="1800" />
+    <note name="C5" duration="300" />
+    <note name="D5" duration="300" />
+    <note name="D#5" duration="300" />
+    <note name="E5" duration="300" />
+    <note name="C5" duration="300" />
+    <note name="D5" duration="300" />
+    <note name="E5" duration="600" />
+    <note name="B4" duration="300" />
+    <note name="D5" duration="600" />
+    <note name="C5" duration="300" />
+</tune>

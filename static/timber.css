@@ -1,0 +1,15 @@
+table
+{
+ border-collapse: collapse;
+ border-spacing: 0;
+}
+
+td
+{
+text-align:center;
+vertical-align:bottom;
+padding:0px;
+}
+
+.bar {background:blue; width:41px; height:0px;}
+.caption {background:#F5F0FA; width:41px; text-align:center; border:1px solid #CCCCCC; padding-top:2px;}

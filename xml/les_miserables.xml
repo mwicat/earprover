@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Les Miserables">
+    <note name="A4" duration="200" />
+    <note name="D5" duration="200" />
+    <note name="D5" duration="600" />
+    <note name="D5" duration="200" />
+    <note name="E5" duration="300" />
+    <note name="D5" duration="100" />
+    <note name="E5" duration="200" />
+    <note name="A5" duration="200" />
+    <note name="F#5" duration="200" />
+    <note name="E5" duration="200" />
+    <note name="D5" duration="1000" />
+    <note name="A4" duration="200" />
+    <note name="D5" duration="200" />
+    <note name="D5" duration="600" />
+    <note name="D5" duration="200" />
+    <note name="E5" duration="300" />
+    <note name="D5" duration="100" />
+    <note name="E5" duration="300" />
+    <note name="D5" duration="100" />
+    <note name="B4" duration="200" />
+    <note name="A4" duration="600" />
+</tune>

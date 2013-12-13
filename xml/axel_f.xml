@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Axel F">
+    <note name="F4" duration="400" />
+    <note name="G#4" duration="300" />
+    <note name="F4" duration="200" />
+    <note name="F4" duration="100" />
+    <note name="A#4" duration="200" />
+    <note name="F4" duration="200" />
+    <note name="D#4" duration="200" />
+    <note name="F4" duration="400" />
+    <note name="C5" duration="300" />
+    <note name="F4" duration="200" />
+    <note name="F4" duration="100" />
+    <note name="C#5" duration="200" />
+    <note name="C5" duration="200" />
+    <note name="G#4" duration="200" />
+    <note name="F4" duration="200" />
+    <note name="C5" duration="200" />
+    <note name="F5" duration="200" />
+    <note name="F4" duration="100" />
+    <note name="D#4" duration="200" />
+    <note name="D#4" duration="100" />
+    <note name="C4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="F4" duration="1100" />
+    <note name="D#4" duration="100" />
+    <note name="C4" duration="200" />
+    <note name="A#3" duration="200" />
+    <note name="G#3" duration="200" />
+</tune>

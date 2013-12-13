@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Peter Gunn">
+    <note name="F3" duration="300" />
+    <note name="F3" duration="300" />
+    <note name="G3" duration="300" />
+    <note name="F3" duration="300" />
+    <note name="G#3" duration="50" />
+    <note name="A3" duration="250" />
+    <note name="F3" duration="300" />
+    <note name="A#3" duration="300" />
+    <note name="A3" duration="250" />
+</tune>

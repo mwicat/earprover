@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Doctor Zhivago">
+    <note name="B3" duration="800" />
+    <note name="D4" duration="600" />
+    <note name="A#4" duration="200" />
+    <note name="B4" duration="1600" />
+    <note name="F#4" duration="267" />
+    <note name="A4" duration="267" />
+    <note name="G4" duration="267" />
+    <note name="D4" duration="600" />
+    <note name="C#4" duration="200" />
+    <note name="C4" duration="1600" />
+    <note name="C4" duration="800" />
+    <note name="D4" duration="600" />
+    <note name="E4" duration="200" />
+    <note name="F#4" duration="1600" />
+    <note name="E4" duration="267" />
+    <note name="D4" duration="267" />
+    <note name="C#4" duration="267" />
+    <note name="D4" duration="600" />
+    <note name="C5" duration="200" />
+    <note name="B4" duration="1600" />
+</tune>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="The Simpsons">
+    <note name="C4" duration="600" />
+    <note name="E4" duration="400" />
+    <note name="F#4" duration="400" />
+    <note name="A4" duration="200" />
+    <note name="G4" duration="600" />
+    <note name="E4" duration="400" />
+    <note name="C4" duration="400" />
+    <note name="A3" duration="400" />
+    <note name="F#3" duration="200" />
+    <note name="F#3" duration="200" />
+    <note name="F#3" duration="200" />
+    <note name="G3" duration="600" />
+    <note name="A#3" duration="600" />
+    <note name="F#3" duration="200" />
+    <note name="F#3" duration="200" />
+    <note name="F#3" duration="200" />
+    <note name="G3" duration="600" />
+    <note name="C4" duration="200" />
+    <note name="C4" duration="200" />
+    <note name="C4" duration="200" />
+    <note name="C4" duration="600" />
+</tune>

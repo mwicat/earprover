@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Coldplay - Trouble">
+    <note name="F#4" duration="15" />
+    <note name="G4" duration="150" />
+    <note name="F#4" duration="150" />
+    <note name="D4" duration="150" />
+    <note name="B3" duration="450" />
+    <note name="B3" duration="150" />
+    <note name="F#4" duration="150" />
+    <note name="G4" duration="150" />
+    <note name="F#4" duration="150" />
+    <note name="D4" duration="150" />
+    <note name="B3" duration="450" />
+    <note name="B3" duration="150" />
+    <note name="F#4" duration="150" />
+    <note name="G4" duration="150" />
+    <note name="F#4" duration="150" />
+    <note name="D4" duration="150" />
+    <note name="F#4" duration="1200" />
+</tune>

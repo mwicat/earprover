@@ -1,0 +1,7677 @@
+{
+    "Jingle Bells": {
+        "tonic": {
+            "pitchClass": 5, 
+            "name": "F", 
+            "midi": 65
+        }, 
+        "notes": [
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 800, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 800, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 1600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 600, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 1600, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 800, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 800, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 1600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 600, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 1600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }
+        ], 
+        "mode": "major", 
+        "title": "Jingle Bells"
+    }, 
+    "The Star Spangled Spanner": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 60
+        }, 
+        "notes": [
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 100, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 100, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 66
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 800, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 100, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 100, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 100, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 66
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 800, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 100, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 79
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 79
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 800, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 800, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 66
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 79
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 60
+            }, 
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }
+        ], 
+        "mode": "major", 
+        "title": "The Star Spangled Spanner"
+    }, 
+    "Jaws Theme": {
+        "tonic": {
+            "pitchClass": 1, 
+            "name": "D-", 
+            "midi": 73
+        }, 
+        "notes": [
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 800, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }, 
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 800, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }, 
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 800, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }, 
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 800, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "C#", 
+                "degree": 1, 
+                "midi": 61
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "D-", 
+                "midi": 73
+            }, 
+            {
+                "name": "E-", 
+                "midi": 75
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G-", 
+                "midi": 78
+            }, 
+            {
+                "name": "A-", 
+                "midi": 80
+            }, 
+            {
+                "name": "B-", 
+                "midi": 82
+            }, 
+            {
+                "name": "C", 
+                "midi": 84
+            }
+        ], 
+        "mode": "major", 
+        "title": "Jaws Theme"
+    }, 
+    "Andrew Lloyd Webber - The Music of the Night": {
+        "tonic": {
+            "pitchClass": 2, 
+            "name": "D", 
+            "midi": 62
+        }, 
+        "notes": [
+            {
+                "duration": 600, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 57
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 57
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 57
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 57
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 6, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C#", 
+                "degree": 7, 
+                "midi": 73
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 6, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C#", 
+                "degree": 7, 
+                "midi": 73
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 6, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 6, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 900, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 300, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "F#", 
+                "degree": 3, 
+                "midi": 66
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 1600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F#", 
+                "midi": 66
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C#", 
+                "midi": 73
+            }
+        ], 
+        "mode": "major", 
+        "title": "Andrew Lloyd Webber - The Music of the Night"
+    }, 
+    "Happy Birthday": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 60
+        }, 
+        "notes": [
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 1200, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 79
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 1200, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 77
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 60
+            }, 
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }
+        ], 
+        "mode": "major", 
+        "title": "Happy Birthday"
+    }, 
+    "S Club Seven - Dont Stop Movin": {
+        "tonic": {
+            "pitchClass": 7, 
+            "name": "G", 
+            "midi": 67
+        }, 
+        "notes": [
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 800, 
+                "name": "F", 
+                "degree": 7, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 7, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 600, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 7, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 800, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 1000, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 66
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 800, 
+                "name": "F", 
+                "degree": 7, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 7, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 600, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 3, 
+                "midi": 58
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 55
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E-", 
+                "midi": 75
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }
+        ], 
+        "mode": "minor", 
+        "title": "S Club Seven - Dont Stop Movin"
+    }, 
+    "My Way": {
+        "tonic": {
+            "pitchClass": 10, 
+            "name": "B-", 
+            "midi": 70
+        }, 
+        "notes": [
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 2, 
+                "midi": 60
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 2, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 6, 
+                "midi": 67
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 2, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 6, 
+                "midi": 67
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 6, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 6, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 6, 
+                "midi": 67
+            }, 
+            {
+                "duration": 1400, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 66
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 3, 
+                "midi": 62
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A#", 
+                "degree": 1, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 3, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 1, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 69
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A#", 
+                "degree": 1, 
+                "midi": 70
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E-", 
+                "midi": 75
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G", 
+                "midi": 79
+            }, 
+            {
+                "name": "A", 
+                "midi": 81
+            }
+        ], 
+        "mode": "major", 
+        "title": "My Way"
+    }, 
+    "Mission Impossible": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 72
+        }, 
+        "notes": [
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 7, 
+                "midi": 58
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 53
+            }, 
+            {
+                "duration": 400, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 54
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 7, 
+                "midi": 58
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 53
+            }, 
+            {
+                "duration": 400, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 54
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 7, 
+                "midi": 82
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 79
+            }, 
+            {
+                "duration": 1600, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 7, 
+                "midi": 82
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 79
+            }, 
+            {
+                "duration": 1600, 
+                "name": "C#", 
+                "degree": null, 
+                "midi": 73
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 7, 
+                "midi": 82
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 79
+            }, 
+            {
+                "duration": 1600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E-", 
+                "midi": 75
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G", 
+                "midi": 79
+            }, 
+            {
+                "name": "A-", 
+                "midi": 80
+            }, 
+            {
+                "name": "B-", 
+                "midi": 82
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Mission Impossible"
+    }, 
+    "The Animals - The House of the Rising Sun": {
+        "tonic": {
+            "pitchClass": 2, 
+            "name": "D", 
+            "midi": 62
+        }, 
+        "notes": [
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 57
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 100, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 100, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 133, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 133, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C#", 
+                "degree": null, 
+                "midi": 61
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 57
+            }, 
+            {
+                "duration": 200, 
+                "name": "C#", 
+                "degree": null, 
+                "midi": 61
+            }, 
+            {
+                "duration": 1600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }
+        ], 
+        "mode": "minor", 
+        "title": "The Animals - The House of the Rising Sun"
+    }, 
+    "Swing Low Sweet Chariot": {
+        "tonic": {
+            "pitchClass": 7, 
+            "name": "G", 
+            "midi": 67
+        }, 
+        "notes": [
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 1200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 1200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 1200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }, 
+            {
+                "name": "F#", 
+                "midi": 78
+            }
+        ], 
+        "mode": "major", 
+        "title": "Swing Low Sweet Chariot"
+    }, 
+    "The Beatles - Yesterday": {
+        "tonic": {
+            "pitchClass": 2, 
+            "name": "D", 
+            "midi": 62
+        }, 
+        "notes": [
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 65
+            }, 
+            {
+                "duration": 1200, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 65
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": null, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "C#", 
+                "degree": null, 
+                "midi": 73
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 77
+            }, 
+            {
+                "duration": 800, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 800, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }
+        ], 
+        "mode": "minor", 
+        "title": "The Beatles - Yesterday"
+    }, 
+    "Mancini - Pink Panther": {
+        "tonic": {
+            "pitchClass": 4, 
+            "name": "E", 
+            "midi": 64
+        }, 
+        "notes": [
+            {
+                "duration": 150, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 1050, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 150, 
+                "name": "F#", 
+                "degree": 2, 
+                "midi": 66
+            }, 
+            {
+                "duration": 1050, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 150, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 450, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 150, 
+                "name": "F#", 
+                "degree": 2, 
+                "midi": 66
+            }, 
+            {
+                "duration": 450, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 150, 
+                "name": "C", 
+                "degree": 6, 
+                "midi": 72
+            }, 
+            {
+                "duration": 450, 
+                "name": "B", 
+                "degree": 5, 
+                "midi": 71
+            }, 
+            {
+                "duration": 150, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 450, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 150, 
+                "name": "B", 
+                "degree": 5, 
+                "midi": 71
+            }, 
+            {
+                "duration": 100, 
+                "name": "A#", 
+                "degree": null, 
+                "midi": 70
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A#", 
+                "degree": null, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 4, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 7, 
+                "midi": 62
+            }, 
+            {
+                "duration": 1400, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F#", 
+                "midi": 66
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Mancini - Pink Panther"
+    }, 
+    "Fur Elise": {
+        "tonic": {
+            "pitchClass": 9, 
+            "name": "A", 
+            "midi": 69
+        }, 
+        "notes": [
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 7, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 2000, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G", 
+                "midi": 79
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Fur Elise"
+    }, 
+    "The Entertainer": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 72
+        }, 
+        "notes": [
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 1800, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 71
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 72
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G", 
+                "midi": 79
+            }, 
+            {
+                "name": "A", 
+                "midi": 81
+            }, 
+            {
+                "name": "B", 
+                "midi": 83
+            }
+        ], 
+        "mode": "major", 
+        "title": "The Entertainer"
+    }, 
+    "Status Quo - Rockin All Over the World": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 60
+        }, 
+        "notes": [
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 57
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 7, 
+                "midi": 59
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 57
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 55
+            }, 
+            {
+                "duration": 1000, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 1000, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 60
+            }, 
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }
+        ], 
+        "mode": "major", 
+        "title": "Status Quo - Rockin All Over the World"
+    }, 
+    "Elvis - Love Me Tender": {
+        "tonic": {
+            "pitchClass": 7, 
+            "name": "G", 
+            "midi": 67
+        }, 
+        "notes": [
+            {
+                "duration": 500, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 500, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 1000, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 500, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 2000, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 62
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 500, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 1000, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 500, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 2000, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 250, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 750, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 250, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 1250, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 2000, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "C", 
+                "degree": 4, 
+                "midi": 72
+            }, 
+            {
+                "duration": 500, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 500, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 500, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 1000, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 500, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 64
+            }, 
+            {
+                "duration": 500, 
+                "name": "F#", 
+                "degree": 7, 
+                "midi": 66
+            }, 
+            {
+                "duration": 2000, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }, 
+            {
+                "name": "F#", 
+                "midi": 78
+            }
+        ], 
+        "mode": "major", 
+        "title": "Elvis - Love Me Tender"
+    }, 
+    "Deep Purple - Smoke on the Water": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 60
+        }, 
+        "notes": [
+            {
+                "duration": 500, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 500, 
+                "name": "D#", 
+                "degree": 3, 
+                "midi": 63
+            }, 
+            {
+                "duration": 1000, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 65
+            }, 
+            {
+                "duration": 500, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 500, 
+                "name": "D#", 
+                "degree": 3, 
+                "midi": 63
+            }, 
+            {
+                "duration": 250, 
+                "name": "F#", 
+                "degree": null, 
+                "midi": 66
+            }, 
+            {
+                "duration": 750, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 65
+            }, 
+            {
+                "duration": 500, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 500, 
+                "name": "D#", 
+                "degree": 3, 
+                "midi": 63
+            }, 
+            {
+                "duration": 1000, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 65
+            }, 
+            {
+                "duration": 500, 
+                "name": "D#", 
+                "degree": 3, 
+                "midi": 63
+            }, 
+            {
+                "duration": 500, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 60
+            }, 
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E-", 
+                "midi": 63
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A-", 
+                "midi": 68
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Deep Purple - Smoke on the Water"
+    }, 
+    "Swan Lake": {
+        "tonic": {
+            "pitchClass": 9, 
+            "name": "A", 
+            "midi": 69
+        }, 
+        "notes": [
+            {
+                "duration": 1200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 1500, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 1200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 1800, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 900, 
+                "name": "G", 
+                "degree": 7, 
+                "midi": 79
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 7, 
+                "midi": 79
+            }, 
+            {
+                "duration": 900, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 81
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 7, 
+                "midi": 79
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 7, 
+                "midi": 79
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 81
+            }, 
+            {
+                "duration": 900, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 83
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 81
+            }, 
+            {
+                "duration": 1800, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 1800, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 900, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 3600, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G", 
+                "midi": 79
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Swan Lake"
+    }, 
+    "Morning": {
+        "tonic": {
+            "pitchClass": 7, 
+            "name": "G", 
+            "midi": 67
+        }, 
+        "notes": [
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 6, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 5, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": 3, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 2, 
+                "midi": 69
+            }, 
+            {
+                "duration": 1200, 
+                "name": "G", 
+                "degree": 1, 
+                "midi": 67
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }, 
+            {
+                "name": "F#", 
+                "midi": 78
+            }
+        ], 
+        "mode": "major", 
+        "title": "Morning"
+    }, 
+    "Pink Panther": {
+        "tonic": {
+            "pitchClass": 4, 
+            "name": "E", 
+            "midi": 64
+        }, 
+        "notes": [
+            {
+                "duration": 150, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 1050, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 150, 
+                "name": "F#", 
+                "degree": 2, 
+                "midi": 66
+            }, 
+            {
+                "duration": 1050, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 150, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 450, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 150, 
+                "name": "F#", 
+                "degree": 2, 
+                "midi": 66
+            }, 
+            {
+                "duration": 450, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 150, 
+                "name": "C", 
+                "degree": 6, 
+                "midi": 72
+            }, 
+            {
+                "duration": 450, 
+                "name": "B", 
+                "degree": 5, 
+                "midi": 71
+            }, 
+            {
+                "duration": 150, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 450, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 150, 
+                "name": "B", 
+                "degree": 5, 
+                "midi": 71
+            }, 
+            {
+                "duration": 100, 
+                "name": "A#", 
+                "degree": null, 
+                "midi": 70
+            }, 
+            {
+                "duration": 1400, 
+                "name": "A#", 
+                "degree": null, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 4, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 3, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 7, 
+                "midi": 62
+            }, 
+            {
+                "duration": 1400, 
+                "name": "E", 
+                "degree": 1, 
+                "midi": 64
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F#", 
+                "midi": 66
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Pink Panther"
+    }, 
+    "Queen - We are the Champions": {
+        "tonic": {
+            "pitchClass": 5, 
+            "name": "F", 
+            "midi": 65
+        }, 
+        "notes": [
+            {
+                "duration": 800, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 7, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 7, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 57
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 62
+            }, 
+            {
+                "duration": 2000, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 57
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 60
+            }, 
+            {
+                "duration": 800, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 7, 
+                "midi": 64
+            }, 
+            {
+                "duration": 2400, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 62
+            }, 
+            {
+                "duration": 800, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 62
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 62
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 60
+            }, 
+            {
+                "duration": 600, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 58
+            }, 
+            {
+                "duration": 800, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 400, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 600, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 1400, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 60
+            }, 
+            {
+                "duration": 1200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }
+        ], 
+        "mode": "major", 
+        "title": "Queen - We are the Champions"
+    }, 
+    "Scarborough Fair": {
+        "tonic": {
+            "pitchClass": 2, 
+            "name": "D", 
+            "midi": 62
+        }, 
+        "notes": [
+            {
+                "duration": 800, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 800, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 800, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 1600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 72
+            }, 
+            {
+                "duration": 800, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": null, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 1600, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 800, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 74
+            }, 
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 65
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 1200, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 800, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 69
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 65
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 2, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 1600, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Scarborough Fair"
+    }, 
+    "Rolling Stones - Satisfaction": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 60
+        }, 
+        "notes": [
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 900, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 900, 
+                "name": "D#", 
+                "degree": 3, 
+                "midi": 63
+            }, 
+            {
+                "duration": 300, 
+                "name": "D#", 
+                "degree": 3, 
+                "midi": 63
+            }, 
+            {
+                "duration": 300, 
+                "name": "D#", 
+                "degree": 3, 
+                "midi": 63
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 60
+            }, 
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E-", 
+                "midi": 63
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A-", 
+                "midi": 68
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Rolling Stones - Satisfaction"
+    }, 
+    "Mancini - Baby Elephant Walk": {
+        "tonic": {
+            "pitchClass": 5, 
+            "name": "F", 
+            "midi": 65
+        }, 
+        "notes": [
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 53
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 53
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 56
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 57
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 53
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 53
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 56
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 57
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 81
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 79
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": null, 
+                "midi": 71
+            }, 
+            {
+                "duration": 1400, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 81
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 79
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1600, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 1400, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 81
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 79
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 200, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 74
+            }, 
+            {
+                "duration": 200, 
+                "name": "B", 
+                "degree": null, 
+                "midi": 71
+            }, 
+            {
+                "duration": 1200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 79
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 79
+            }, 
+            {
+                "duration": 200, 
+                "name": "E", 
+                "degree": 7, 
+                "midi": 76
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 75
+            }, 
+            {
+                "duration": 100, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 200, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": null, 
+                "midi": 71
+            }, 
+            {
+                "duration": 400, 
+                "name": "B", 
+                "degree": null, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 100, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 200, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 60
+            }, 
+            {
+                "duration": 200, 
+                "name": "D#", 
+                "degree": null, 
+                "midi": 63
+            }, 
+            {
+                "duration": 200, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }
+        ], 
+        "mode": "major", 
+        "title": "Mancini - Baby Elephant Walk"
+    }, 
+    "Schindlers List": {
+        "tonic": {
+            "pitchClass": 9, 
+            "name": "A", 
+            "midi": 69
+        }, 
+        "notes": [
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 7, 
+                "midi": 79
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 7, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 1200, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 68
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 6, 
+                "midi": 65
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 1200, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }, 
+            {
+                "duration": 1200, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 62
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 5, 
+                "midi": 76
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 4, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 3, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "B", 
+                "degree": 2, 
+                "midi": 71
+            }, 
+            {
+                "duration": 2400, 
+                "name": "A", 
+                "degree": 1, 
+                "midi": 69
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G", 
+                "midi": 79
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Schindlers List"
+    }, 
+    "Cream - Sunshine of Your Love": {
+        "tonic": {
+            "pitchClass": 2, 
+            "name": "D", 
+            "midi": 62
+        }, 
+        "notes": [
+            {
+                "duration": 250, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 250, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 250, 
+                "name": "C", 
+                "degree": 7, 
+                "midi": 60
+            }, 
+            {
+                "duration": 500, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 62
+            }, 
+            {
+                "duration": 500, 
+                "name": "A", 
+                "degree": 5, 
+                "midi": 57
+            }, 
+            {
+                "duration": 500, 
+                "name": "G#", 
+                "degree": null, 
+                "midi": 56
+            }, 
+            {
+                "duration": 500, 
+                "name": "G", 
+                "degree": 4, 
+                "midi": 55
+            }, 
+            {
+                "duration": 250, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 50
+            }, 
+            {
+                "duration": 500, 
+                "name": "F", 
+                "degree": 3, 
+                "midi": 53
+            }, 
+            {
+                "duration": 500, 
+                "name": "D", 
+                "degree": 1, 
+                "midi": 50
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }
+        ], 
+        "mode": "minor", 
+        "title": "Cream - Sunshine of Your Love"
+    }, 
+    "The Beatles - Whatever": {
+        "tonic": {
+            "pitchClass": 10, 
+            "name": "B-", 
+            "midi": 70
+        }, 
+        "notes": [
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 7, 
+                "midi": 57
+            }, 
+            {
+                "duration": 400, 
+                "name": "A#", 
+                "degree": 1, 
+                "midi": 58
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E-", 
+                "midi": 75
+            }, 
+            {
+                "name": "F", 
+                "midi": 77
+            }, 
+            {
+                "name": "G", 
+                "midi": 79
+            }, 
+            {
+                "name": "A", 
+                "midi": 81
+            }
+        ], 
+        "mode": "major", 
+        "title": "The Beatles - Whatever"
+    }, 
+    "Brown Girl in the Ring": {
+        "tonic": {
+            "pitchClass": 5, 
+            "name": "F", 
+            "midi": 65
+        }, 
+        "notes": [
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "E", 
+                "degree": 7, 
+                "midi": 64
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 600, 
+                "name": "E", 
+                "degree": 7, 
+                "midi": 64
+            }, 
+            {
+                "duration": 900, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "D", 
+                "degree": 6, 
+                "midi": 74
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 600, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 200, 
+                "name": "A#", 
+                "degree": 4, 
+                "midi": 70
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "C", 
+                "degree": 5, 
+                "midi": 72
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "A", 
+                "degree": 3, 
+                "midi": 69
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 300, 
+                "name": "G", 
+                "degree": 2, 
+                "midi": 67
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 65
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }, 
+            {
+                "duration": 600, 
+                "name": "F", 
+                "degree": 1, 
+                "midi": 77
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B-", 
+                "midi": 70
+            }, 
+            {
+                "name": "C", 
+                "midi": 72
+            }, 
+            {
+                "name": "D", 
+                "midi": 74
+            }, 
+            {
+                "name": "E", 
+                "midi": 76
+            }
+        ], 
+        "mode": "major", 
+        "title": "Brown Girl in the Ring"
+    }, 
+    "Twinkle Twinkle Little Star": {
+        "tonic": {
+            "pitchClass": 0, 
+            "name": "C", 
+            "midi": 60
+        }, 
+        "notes": [
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 400, 
+                "name": "A", 
+                "degree": 6, 
+                "midi": 69
+            }, 
+            {
+                "duration": 800, 
+                "name": "G", 
+                "degree": 5, 
+                "midi": 67
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 65
+            }, 
+            {
+                "duration": 400, 
+                "name": "F", 
+                "degree": 4, 
+                "midi": 65
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "E", 
+                "degree": 3, 
+                "midi": 64
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 400, 
+                "name": "D", 
+                "degree": 2, 
+                "midi": 62
+            }, 
+            {
+                "duration": 800, 
+                "name": "C", 
+                "degree": 1, 
+                "midi": 60
+            }
+        ], 
+        "degrees": [
+            {
+                "name": "C", 
+                "midi": 60
+            }, 
+            {
+                "name": "D", 
+                "midi": 62
+            }, 
+            {
+                "name": "E", 
+                "midi": 64
+            }, 
+            {
+                "name": "F", 
+                "midi": 65
+            }, 
+            {
+                "name": "G", 
+                "midi": 67
+            }, 
+            {
+                "name": "A", 
+                "midi": 69
+            }, 
+            {
+                "name": "B", 
+                "midi": 71
+            }
+        ], 
+        "mode": "major", 
+        "title": "Twinkle Twinkle Little Star"
+    }
+}

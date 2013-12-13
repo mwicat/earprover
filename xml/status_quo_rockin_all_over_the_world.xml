@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Status Quo - Rockin All Over the World">
+    <note name="G4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="E4" duration="400" />
+    <note name="G4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="E4" duration="400" />
+    <note name="G4" duration="200" />
+    <note name="A4" duration="400" />
+    <note name="E4" duration="600" />
+    <note name="D4" duration="200" />
+    <note name="C4" duration="200" />
+    <note name="D4" duration="200" />
+    <note name="D#4" duration="200" />
+    <note name="D4" duration="200" />
+    <note name="C4" duration="600" />
+    <note name="A3" duration="200" />
+    <note name="C4" duration="200" />
+    <note name="D4" duration="200" />
+    <note name="D#4" duration="200" />
+    <note name="D4" duration="200" />
+    <note name="C4" duration="400" />
+    <note name="B3" duration="200" />
+    <note name="A3" duration="200" />
+    <note name="G3" duration="800" />
+    <note name="E4" duration="1000" />
+    <note name="G4" duration="200" />
+    <note name="E4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="E4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="E4" duration="200" />
+    <note name="D4" duration="200" />
+    <note name="D4" duration="400" />
+    <note name="C4" duration="1000" />
+</tune>

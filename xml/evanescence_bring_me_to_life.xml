@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Evanescence - Bring Me to Life">
+    <note name="E4" duration="800" />
+    <note name="B4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="B4" duration="400" />
+    <note name="C5" duration="800" />
+    <note name="E5" duration="800" />
+    <note name="B4" duration="800" />
+</tune>

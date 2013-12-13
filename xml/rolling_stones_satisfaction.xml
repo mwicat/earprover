@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Rolling Stones - Satisfaction">
+    <note name="C4" duration="600" />
+    <note name="C4" duration="900" />
+    <note name="C4" duration="300" />
+    <note name="D4" duration="300" />
+    <note name="D#4" duration="900" />
+    <note name="D#4" duration="300" />
+    <note name="D#4" duration="300" />
+    <note name="D4" duration="300" />
+    <note name="C4" duration="300" />
+</tune>

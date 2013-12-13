@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Twinkle Twinkle Little Star">
+    <note name="C4" duration="400" />
+    <note name="C4" duration="400" />
+    <note name="G4" duration="400" />
+    <note name="G4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="A4" duration="400" />
+    <note name="G4" duration="800" />
+    <note name="F4" duration="400" />
+    <note name="F4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="D4" duration="400" />
+    <note name="D4" duration="400" />
+    <note name="C4" duration="800" />
+</tune>

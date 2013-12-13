@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Pink Panther">
+    <note name="D#4" duration="150" />
+    <note name="E4" duration="1050" />
+    <note name="F#4" duration="150" />
+    <note name="G4" duration="1050" />
+    <note name="D#4" duration="150" />
+    <note name="E4" duration="450" />
+    <note name="F#4" duration="150" />
+    <note name="G4" duration="450" />
+    <note name="C5" duration="150" />
+    <note name="B4" duration="450" />
+    <note name="E4" duration="150" />
+    <note name="G4" duration="450" />
+    <note name="B4" duration="150" />
+    <note name="A#4" duration="100" />
+    <note name="A#4" duration="1400" />
+    <note name="A4" duration="200" />
+    <note name="G4" duration="200" />
+    <note name="E4" duration="200" />
+    <note name="D4" duration="200" />
+    <note name="E4" duration="1400" />
+</tune>

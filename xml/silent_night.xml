@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Silent Night">
+    <note name="C4" duration="750" />
+    <note name="D4" duration="250" />
+    <note name="C4" duration="500" />
+    <note name="A3" duration="1500" />
+    <note name="C4" duration="750" />
+    <note name="D4" duration="250" />
+    <note name="C4" duration="500" />
+    <note name="A3" duration="1500" />
+</tune>

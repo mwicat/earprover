@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Led Zeppelin - Whole Lotta Love">
+    <note name="B3" duration="100" />
+    <note name="D4" duration="200" />
+    <note name="B3" duration="100" />
+    <note name="D4" duration="200" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="200" />
+    <note name="B3" duration="100" />
+    <note name="D4" duration="200" />
+    <note name="B3" duration="100" />
+    <note name="D4" duration="200" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+    <note name="E4" duration="400" />
+</tune>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="The Can Can">
+    <note name="G4" duration="400" />
+    <note name="D5" duration="400" />
+    <note name="D5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="D5" duration="400" />
+    <note name="C5" duration="400" />
+    <note name="C5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="F5" duration="400" />
+    <note name="A5" duration="400" />
+    <note name="C6" duration="400" />
+    <note name="A5" duration="400" />
+    <note name="A5" duration="400" />
+    <note name="G5" duration="400" />
+    <note name="G5" duration="800" />
+    <note name="A5" duration="400" />
+    <note name="B4" duration="400" />
+    <note name="B4" duration="400" />
+    <note name="A5" duration="400" />
+    <note name="G5" duration="400" />
+    <note name="C5" duration="400" />
+    <note name="C5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="D5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="D5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="D5" duration="400" />
+    <note name="E5" duration="400" />
+    <note name="D5" duration="400" />
+</tune>

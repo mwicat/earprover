@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Star Wars">
+    <note name="G3" duration="800" />
+    <note name="G3" duration="800" />
+    <note name="G3" duration="800" />
+    <note name="D#3" duration="600" />
+    <note name="A#3" duration="200" />
+    <note name="G3" duration="800" />
+    <note name="D#3" duration="600" />
+    <note name="A#3" duration="200" />
+    <note name="G3" duration="1600" />
+    <note name="D4" duration="800" />
+    <note name="D4" duration="800" />
+    <note name="D4" duration="800" />
+    <note name="D#4" duration="600" />
+    <note name="A#3" duration="200" />
+    <note name="G3" duration="800" />
+    <note name="F#3" duration="600" />
+    <note name="A#3" duration="200" />
+    <note name="G3" duration="1600" />
+</tune>

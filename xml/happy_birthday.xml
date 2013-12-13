@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tune title="Happy Birthday">
+    <note name="G4" duration="300" />
+    <note name="G4" duration="300" />
+    <note name="A4" duration="600" />
+    <note name="G4" duration="600" />
+    <note name="C5" duration="600" />
+    <note name="B4" duration="1200" />
+    <note name="G4" duration="300" />
+    <note name="G4" duration="300" />
+    <note name="A4" duration="600" />
+    <note name="G4" duration="600" />
+    <note name="D5" duration="600" />
+    <note name="C5" duration="1200" />
+    <note name="G4" duration="300" />
+    <note name="G4" duration="300" />
+    <note name="G5" duration="600" />
+    <note name="E5" duration="600" />
+    <note name="C5" duration="600" />
+    <note name="B4" duration="600" />
+    <note name="A4" duration="1200" />
+    <note name="F5" duration="300" />
+    <note name="F5" duration="300" />
+    <note name="E5" duration="600" />
+    <note name="C5" duration="600" />
+    <note name="D5" duration="600" />
+    <note name="C5" duration="1200" />
+</tune>
